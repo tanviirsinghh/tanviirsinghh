@@ -2,7 +2,7 @@
 
 
 ## Hey! 👋
-I'm Tanvir Singh, a 20 years old Fullstack Developer from <b>Punjab📍, India
+I'm Tanvir Singh, a 22 years old Fullstack Developer from <b>Punjab📍, India
 
 <h3>Things I code with</h3>
 <p>
