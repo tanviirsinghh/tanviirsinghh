@@ -1,7 +1,7 @@
 
 
 
-## Hey! 👋
+ ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 I'm Tanvir Singh, a 22 years old Fullstack Developer from <b>Punjab📍, India
 
 <h3>Things I code with</h3>
