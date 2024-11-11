@@ -1,6 +1,6 @@
-# iTanvirSingh
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> SatShriAkal 🙏</h1>
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my profile </h1>
 
 
 <p> I'm Tanvir Singh, Fullstack developer from  <b>Punjab📍, India</b> </p>
