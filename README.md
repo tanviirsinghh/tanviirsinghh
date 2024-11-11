@@ -35,3 +35,10 @@ I'm Tanvir Singh, a 22 years old Fullstack Developer from <b>Punjab📍, India
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
 </p>
+ 
+  #### 📫 How to reach me:
+  
+ [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/ustaadlokk)  &nbsp;
+ [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/tanviirsinghh)  &nbsp;
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tanvir-singh-0b6a121b6)  &nbsp;
+ [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/tanviirsinghh)  &nbsp; <a href="mailto:tanviirsinghh@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
