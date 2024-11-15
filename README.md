@@ -1,8 +1,8 @@
 
 
  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-I'm Tanvir Singh, a 22 years old Fullstack Developer from <b>Punjab📍, India
-
+I'm Tanvir Singh, a 22 years old Freelance Fullstack Developer with 2+ years of Freelancing experience and 6 Months of Industry Experience. <br/>
+Open to offers.
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
