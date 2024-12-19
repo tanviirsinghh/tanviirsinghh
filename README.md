@@ -1,7 +1,7 @@
 
 
  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-I'm Tanvir Singh, a 22 years old Freelance Fullstack Developer with 2+ years of Freelancing experience and 6 Months of Industry Experience. <br/>
+I'm Tanvir Singh, a Freelance Fullstack Developer with 2+ years of Freelancing experience and 6 Months of Industry Experience. <br/>
 Open to offers.
 <h3>Things I code with</h3>
 <p>
