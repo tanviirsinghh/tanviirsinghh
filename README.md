@@ -1,7 +1,7 @@
 
 
  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-I'm Tanvir Singh, a Fullstack Developer with 6 Months of Industry Experience. <br/>
+I'm Tanvir Singh, a DevOps + Fullstack Developer with 6 Months of Industry Experience. <br/>
 Open to offers.
 <h3>Things I code with</h3>
 <p>
